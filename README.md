@@ -1,1 +1,1 @@
-# Computer-science-2
+# Computer-science-2: Advanced C++ programming
